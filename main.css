@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.picters{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.image{
+    width: 32%;
+    display: flex;
+
+    
+}
+
+.image img{
+    width: 100%;
+    height: auto;
+}
